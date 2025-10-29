@@ -1,7 +1,11 @@
 # 👋 Hi, I’m Anika de Beer
 
-I’m a **Creative Technologies student** majoring in **UX Design** and **Interactive Development** at Open Window Institute, South Africa.  
-My work focuses on combining **design thinking** with **technical development** to create meaningful digital products — from data visualisations to e-commerce dashboards.
+I’m a **Creative Technologies student** majoring in **UX Design** and **Interactive Development** at **Open Window Institute**, South Africa.  
+My work blends **design thinking** with **technical development** to create meaningful digital products — from data visualisations to full e-commerce ecosystems.
+
+For me, design isn’t just about how things look — it’s about *why* they exist and *how* they work.  
+I believe there are a thousand “why’s” behind every idea, so my motto is simple:  
+> **“Why not?” — answer them.**
 
 ---
 
@@ -42,6 +46,12 @@ A **full-stack MERN floral e-commerce and farm management system** with real-tim
 
 ## 🛠 Languages & Tools
 JavaScript • React • Node.js • MySQL • Express • HTML • CSS • Chart.js
+
+---
+
+## 🏆 Achievements
+- 🥇 **1st Place – Digital & Interaction Design (2025) at the Greenside Intervarsity Portfilio Day** for a UX/Service Design project, called *Handover*  
+- 🎓 **UX Internship at Accenture (2025–2026)**  
 
 ---
 
