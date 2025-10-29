@@ -17,6 +17,7 @@ A **data visualisation website** that connects to a **public API** to display pr
 
 ### 🍷 [Pour Decisions – Wine E-Commerce Platform](https://github.com/OpenWindow231312/deBeerAnika_231312_DV200S2F2)
 A **modern wine e-commerce experience** designed to make wine culture more inclusive and engaging.  
+<img width="2880" height="1620" alt="Slide 16_9 - 1 (1)" src="https://github.com/user-attachments/assets/1ef72586-1077-4445-ab9a-dfe82329ad1b" />
 - Built with: React, Firebase, and styled components  
 - Features: Product listings, cart system, and user authentication  
 - Focus: Accessibility and humor in UI/UX design, challenging elitism in wine branding.
@@ -25,6 +26,7 @@ A **modern wine e-commerce experience** designed to make wine culture more inclu
 
 ### 🌿 [EverBloom – Floral Management Dashboard & Store](https://github.com/OpenWindow231312/EverBloom)
 A **full-stack MERN floral e-commerce and farm management system** with real-time inventory logic.  
+<img width="4098" height="2400" alt="Everbloom Dashboard Front image" src="https://github.com/user-attachments/assets/0c92e1e8-7887-4395-a924-7c94034328e3" />
 - Built with: React, Node.js, Express, MySQL (Sequelize ORM)  
 - Features: Batch freshness tracking, dynamic pricing, cold-room monitoring, and sales dashboards  
 - Focus: Empowering local florists and farmers through smart tech and intuitive UX.
@@ -42,8 +44,9 @@ JavaScript • React • Node.js • MySQL • Express • HTML • CSS • Char
 ---
 
 ## 📬 Let’s Connect
-💌 **Email:** anika.debeer@openwindow.co.za  
-💼 **LinkedIn:** [linkedin.com/in/anikadebeer](https://linkedin.com/in/anikadebeer)
+💌 **Email:** anikadebeer2004@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/anika-de-beer-6b949b246](https://www.linkedin.com/in/anika-de-beer-6b949b246)  
+🎨 **Behance:** [behance.net/anikadebeer2](https://www.behance.net/anikadebeer2)
 
 ---
 
