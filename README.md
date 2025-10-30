@@ -1,3 +1,5 @@
+![Desktop - 1](https://github.com/user-attachments/assets/9f27569c-3377-4ec1-aeec-313d289ea369)
+
 # 👋 Hi, I’m Anika de Beer
 
 I’m a **Creative Technologies student** majoring in **UX Design** and **Interactive Development** at **Open Window Institute**, South Africa.  
