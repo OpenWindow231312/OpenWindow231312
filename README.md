@@ -12,6 +12,10 @@ From data visualisation to e-commerce ecosystems, my work focuses on clarity, us
 
 ---
 
+🌱 Career Focus
+
+Frontend Development • Full-Stack JavaScript • UX Design • API-driven applications • E-commerce systems • Data Interfaces
+
 ## 📄 Table of Contents
 
 - [About Me](#about-me)  
@@ -21,6 +25,7 @@ From data visualisation to e-commerce ecosystems, my work focuses on clarity, us
 - [Languages & Tools](#-languages--tools)  
 - [Achievements](#-achievements)  
 - [Acknowledgements](#-acknowledgements)  
+- [Contact](#contact)
 
 ---
 
@@ -69,11 +74,28 @@ A **full-stack MERN floral e-commerce and farm management system** with real-tim
 
 ## 🛠 Tech Stack
 
-🌐 Frontend: React, HTML5, CSS3, JavaScript ES6+  
-🧠 Backend: Node.js, Express.js  
-🗄 Database: MySQL, Sequelize ORM  
-📊 Data & APIs: Axios, JSON APIs, Chart.js  
-🎨 Design: Figma, Styled Components  
+### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-3C76C3?style=for-the-badge&logo=sequelize&logoColor=white)
+
+### APIs & Data  
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### Design  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+
 
 ---
 
@@ -96,5 +118,16 @@ JavaScript • React • Node.js • MySQL • Express • HTML • CSS • Char
 ## 🙏 Acknowledgements  
 Guided by  
 **Tsungai Katsuro — Interactive Development Lecturer, Open Window Institute**
+
+---
+
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikadebeer2004@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anika-de-beer-6b949b246/)
+
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/anikadebeer2)
+
 
 
