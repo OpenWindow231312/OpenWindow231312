@@ -36,7 +36,7 @@ I enjoy solving complex problems with clean code, clear systems, and thoughtful 
 
 ---
 
-## 🌸 Featured DV200 Projects
+## Featured DV200 Projects
 
 ### 🥄 FactFork – Product Data Website  
 📌 https://github.com/OpenWindow231312/deBeerAnika_231312_DV200S1F1
