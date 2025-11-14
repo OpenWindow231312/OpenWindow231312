@@ -63,7 +63,7 @@ A **modern wine e-commerce experience** designed to make wine culture more inclu
 ### 🌿 EverBloom – Floral Management Dashboard & Store  
 📌 https://github.com/OpenWindow231312/EverBloom  
 
-<img width="4098" height="2400" alt="Everbloom Dashboard" src="https://github.com/user-attachments/assets/0c92e1e8-7887-4395-a924-7c94034328e3" />
+<img width="1798" height="1381" alt="Frame 9" src="https://github.com/user-attachments/assets/60a2de0e-682b-4340-b6f2-96a4a9d17bd9" />
 
 A **full-stack MERN floral e-commerce and farm management system** with real-time inventory logic.  
 - Built with: React, Node.js, Express, MySQL (Sequelize ORM)  
