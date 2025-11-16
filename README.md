@@ -41,6 +41,8 @@ I enjoy solving complex problems with clean code, clear systems, and thoughtful 
 ### 🥄 FactFork – Product Data Website  
 📌 https://github.com/OpenWindow231312/deBeerAnika_231312_DV200S1F1
 
+<img width="883" height="517" alt="Ovddderview" src="https://github.com/user-attachments/assets/db912001-4a59-4324-a8a8-70168f7cc159" />
+
 A **data visualisation website** that connects to a **public API** to display product trends using **Chart.js**.  
 - Built with: HTML, CSS, JavaScript  
 - Features: Interactive graphs, responsive UI, and dynamic API data rendering.  
