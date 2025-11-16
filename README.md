@@ -41,7 +41,7 @@ I enjoy solving complex problems with clean code, clear systems, and thoughtful 
 ### 🥄 FactFork – Product Data Website  
 📌 https://github.com/OpenWindow231312/deBeerAnika_231312_DV200S1F1
 
-<img width="883" height="517" alt="Ovddderview" src="https://github.com/user-attachments/assets/db912001-4a59-4324-a8a8-70168f7cc159" />
+<img width="2880" height="auto" alt="Ovddderview" src="https://github.com/user-attachments/assets/db912001-4a59-4324-a8a8-70168f7cc159" />
 
 A **data visualisation website** that connects to a **public API** to display product trends using **Chart.js**.  
 - Built with: HTML, CSS, JavaScript  
@@ -53,7 +53,7 @@ A **data visualisation website** that connects to a **public API** to display pr
 ### 🍷 Pour Decisions – Wine E-Commerce Platform  
 📌 [https://github.com/OpenWindow231312/deBeerAnika_231312_DV200S2F2  ](https://github.com/231256leRouxFNF/Wine-E-commerce-site)
 
-<img width="2880" height="1620" alt="Pour Decisions Screenshot" src="https://github.com/user-attachments/assets/1ef72586-1077-4445-ab9a-dfe82329ad1b" />
+<img width="2880" height="auto" alt="Pour Decisions Screenshot" src="https://github.com/user-attachments/assets/1ef72586-1077-4445-ab9a-dfe82329ad1b" />
 
 A **modern wine e-commerce experience** designed to make wine culture more inclusive and engaging.  
 - Built with: React, Firebase, and styled components  
@@ -65,7 +65,7 @@ A **modern wine e-commerce experience** designed to make wine culture more inclu
 ### 🌿 EverBloom – Floral Management Dashboard & Store  
 📌 https://github.com/OpenWindow231312/EverBloom  
 
-<img width="1798" height="1381" alt="Frame 9" src="https://github.com/user-attachments/assets/60a2de0e-682b-4340-b6f2-96a4a9d17bd9" />
+<img width="2880" height="auto" alt="Frame 9" src="https://github.com/user-attachments/assets/60a2de0e-682b-4340-b6f2-96a4a9d17bd9" />
 
 A **full-stack MERN floral e-commerce and farm management system** with real-time inventory logic.  
 - Built with: React, Node.js, Express, MySQL (Sequelize ORM)  
