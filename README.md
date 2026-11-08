@@ -70,7 +70,7 @@ I enjoy solving complex problems with clean code, clear systems, and thoughtful 
 
 <img width="100%" alt="SheIsDesign header" src="https://github.com/user-attachments/assets/22849e46-aaf5-46f7-805b-38831701a09b" />
 
-A **full-stack team project** celebrating, challenging and elevating female design students across South Africa. Students enter competitions and climb a live leaderboard; admins and judges manage events, scoring, galleries and donations.
+A **full-stack team project**, built with Gaby, Keagan and Keabetswe, celebrating, challenging and elevating female design students across South Africa. Students enter competitions and climb a live leaderboard; admins and judges manage events, scoring, galleries and donations.
 - **Features:** Admin and judge dashboards, live competition leaderboard, donation splitting across three pillars, EmailJS messaging, desktop app via Electron
 - **My part:** Brought the visual brand to life with fluid, floating orb animations built in pure CSS keyframes, with no animation libraries
 - **Built with:** React, DaisyUI, .NET (C#), PostgreSQL (Aiven), Electron, Jest & xUnit, Render
@@ -81,10 +81,12 @@ A **full-stack team project** celebrating, challenging and elevating female desi
 
 ## Featured DV200 Projects
 
+*Earlier work from my second year. My three main portfolio projects are the DV300 projects above.*
+
 ### 🥄 FactFork – Product Data Website
 📌 https://github.com/OpenWindow231312/deBeerAnika_231312_DV200S1F1
 
-<img width="2880" height="auto" alt="Ovddderview" src="https://github.com/user-attachments/assets/db912001-4a59-4324-a8a8-70168f7cc159" />
+<img width="2880" height="auto" alt="FactFork overview" src="https://github.com/user-attachments/assets/db912001-4a59-4324-a8a8-70168f7cc159" />
 
 A **data visualisation website** that connects to a **public API** to display product trends using **Chart.js**.
 - Built with: HTML, CSS, JavaScript
@@ -101,7 +103,7 @@ A **data visualisation website** that connects to a **public API** to display pr
 A **modern wine e-commerce experience** designed to make wine culture more inclusive and engaging.
 - Built with: React, Firebase, and styled components
 - Features: Product listings, cart system, and user authentication
-- Focus: Accessibility and humor in UI/UX design, challenging elitism in wine branding.
+- Focus: Accessibility and humour in UI/UX design, challenging elitism in wine branding.
 
 ---
 
@@ -155,6 +157,14 @@ A **full-stack MERN floral e-commerce and farm management system** with real-tim
 
 ---
 
+## 📈 GitHub Stats
+<img height="180" alt="Anika's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OpenWindow231312&theme=github" />
+<img height="180" alt="Anika's most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OpenWindow231312&theme=github" />
+
+<img alt="Anika's GitHub streak" src="https://streak-stats.demolab.com?user=OpenWindow231312&theme=rose-pine" />
+
+---
+
 ## 🏆 Achievements
 - 💼 **Digital Product Designer at Super Ultra (2026)** — full-time
 - 🥇 **1st Place – Digital & Interaction Design (2025) at the Greenside Intervarsity Portfolio Day** for a UX/Service Design project, called *Handover*
@@ -165,7 +175,7 @@ A **full-stack MERN floral e-commerce and farm management system** with real-tim
 ## 🙏 Acknowledgements
 Guided by
 
-- **Tsungai Katsuro — Lecturer, Open Window Institute**
+- **Tsungai Katsuro — Interactive Development Lecturer, Open Window Institute**
 - **William Basson — Lecturer, Open Window Institute**
 
 ---
@@ -175,4 +185,3 @@ Guided by
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikadebeer2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anika-de-beer-6b949b246/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/anikadebeer2)
-
