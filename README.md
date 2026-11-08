@@ -155,11 +155,6 @@ A **full-stack MERN floral e-commerce and farm management system** with real-tim
 
 ---
 
-## 📈 GitHub Stats
-![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenWindow231312&show_icons=true&theme=rose_pine)
-
----
-
 ## 🏆 Achievements
 - 💼 **Digital Product Designer at Super Ultra (2026)** — full-time
 - 🥇 **1st Place – Digital & Interaction Design (2025) at the Greenside Intervarsity Portfolio Day** for a UX/Service Design project, called *Handover*
@@ -170,7 +165,7 @@ A **full-stack MERN floral e-commerce and farm management system** with real-tim
 ## 🙏 Acknowledgements
 Guided by
 
-- **Tsungai Katsuro — Interactive Development Lecturer, Open Window Institute**
+- **Tsungai Katsuro — Lecturer, Open Window Institute**
 - **William Basson — Lecturer, Open Window Institute**
 
 ---
